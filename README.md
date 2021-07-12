@@ -1,5 +1,5 @@
 # Plant-Disease-detection-Multiplatform-app
-Offline classification of plant diseases using pretrained deep learning model
+Offline classification of plant diseases using pretrained deep learning model (creator: https://github.com/Shantanu-droid)
 
 ### Link to collab notebook
 https://colab.research.google.com/drive/1Wka71E7O_e_PJ-RnJsEyqlLzNhYvAFrZ?usp=sharing
