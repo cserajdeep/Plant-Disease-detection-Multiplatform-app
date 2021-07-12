@@ -1,4 +1,4 @@
-# Plant-Disease-detection-Multiplatform-app
+# Plant Disease Detection Multiplatform App
 Offline classification of plant diseases using pretrained deep learning model. This is the 6th semester minor project of Shantanu (creator: https://github.com/Shantanu-droid), Mentored and guided by Dr. Rajdeep Chaterjee. 
 
 ### Link to collab notebook
